@@ -3,7 +3,7 @@
 
 <!DOCTYPE html>
 <html lang="ja">
-<head>
+<head> 
 	<meta charset="UTF-8">
 	<title>商品データベース</title>
 	<link rel="stylesheet" href="../assets/css/style.css" />

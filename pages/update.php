@@ -2,7 +2,7 @@
     $id = (int)$_POST["id"];
     $dsn = "mysql:host=localhost;dbname=productdb;charset=utf8";
     $user = "productdb_admin";
-    $password = "admin123";
+    $password = "admin123"; 
     
     // データベース接続オブジェクトを取得
     $pdo = new PDO($dsn, $user, $password);
